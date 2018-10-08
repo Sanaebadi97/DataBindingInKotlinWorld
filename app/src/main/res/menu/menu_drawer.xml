@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_data_binding"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="@string/data_binding"/>
+        <item
+            android:id="@+id/nav_jet_pack"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="@string/jet_pack"/>
+        <item
+            android:id="@+id/nav_kotlin"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="@string/kotlin"/>
+        <item
+            android:id="@+id/nav_android"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="@string/android"/>
+    </group>
+
+</menu>

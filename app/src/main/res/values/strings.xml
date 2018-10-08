@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DBTelegram</string>
+    <string name="menu_proxy">proxy</string>
+    <string name="menu_lock">lock</string>
+    <string name="menu_search">search</string>
+    <string name="data_binding">DataBinding</string>
+    <string name="jet_pack">JetPack</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="android">Android</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+
+    <!--item row strings-->
+    <string name="flutter">Flutter Developers</string>
+    <string name="android_gr">Android Dev</string>
+    <string name="freeChat">Developer Free Chat</string>
+    <string name="barcelona">BARCA NEWS</string>
+    <string name="super_gr">Android Development</string>
+    <string name="telegram">Telegram</string>
+
+    <string name="flutter_meg">I Find Flutter Refrence Now ..</string>
+    <string name="android_gr_meg">What is Retrofit?</string>
+    <string name="freeChat_meg">:(((Nope</string>
+    <string name="barcelona_meg">Messi , ...</string>
+    <string name="super_gr_msg">Wow , Greate ...</string>
+    <string name="telegram_msg">Telegram</string>
+
+
+
+</resources>
