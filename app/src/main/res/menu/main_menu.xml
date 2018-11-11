@@ -14,10 +14,7 @@
           app:showAsAction="ifRoom"/>
 
 
-    <item android:id="@+id/search"
-        android:title="@string/menu_search"
-        android:icon="@drawable/magnify"
-        app:showAsAction="ifRoom"/>
+  
 
 
 
