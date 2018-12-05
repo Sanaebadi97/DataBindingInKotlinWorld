@@ -11,4 +11,4 @@ In ```RecyclerView``` And ```NavigationDrawer```...
 
 I set Simple Design just for Using ```Kotlin``` + ```DataBinding ```
 
-I hope use it ... Good Luck :)
+I hope use it ... Good Luck ;)
