@@ -6,7 +6,7 @@ __Some ScreenShots__
 
 ----
 
-using [Kotlin](http://kotlinlang.org/) with [DataBinding Library](https://developer.android.com/topic/libraries/data-binding/) 
+using [Kotlin](http://kotlinlang.org/) with [DataBinding Component](https://developer.android.com/topic/libraries/data-binding/) 
 In ```RecyclerView``` And ```NavigationDrawer```...
 
 I set Simple Design just for Using ```Kotlin``` + ```DataBinding ```
