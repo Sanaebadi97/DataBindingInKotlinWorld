@@ -1,6 +1,6 @@
 # DataBindingInKotlinWorld
 
-***__Some ScreenShots__***
+ Some ScreenShots
 
 ![screenshot from 2018-10-07 22-07-24](https://user-images.githubusercontent.com/26750131/46585444-ded3b680-ca3e-11e8-9673-2f935b1a9f6e.png)
 
